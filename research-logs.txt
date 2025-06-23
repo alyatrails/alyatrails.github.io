@@ -63,7 +63,7 @@
 [2025-06-20 07:17:05] KEYSTROKE LOG: User typed "begin password brute force attempt"
 [2025-06-20 07:17:40] ERROR 0xC0000005: Access violation reading location 0x00000000
 [2025-06-20 07:18:20] NETWORK TRAFFIC: Outbound connection to 198.51.100.45:443
-[2025-06-20 07:19:00] KEYSTROKE LOG: Pastebin Url "flagmaybe_pastebincomraw7x9d3pL2"
+[2025-06-20 07:19:00] KEYSTROKE LOG: Paste ' https://pastebin.com/WzGque0J '
 [2025-06-20 07:19:40] PROCESS STARTED: C:\Windows\System32\notepad.exe
 [2025-06-20 07:20:10] FILE ACCESS: C:\Users\Alya\Desktop\notes.txt saved
 [2025-06-20 07:20:45] USB Device Disconnected: VendorID_05AC ProductID_12A8
