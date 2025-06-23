@@ -1,0 +1,79 @@
+===========================================================================
+| Research Log - System Activity Report                                   |
+| Date: 2025-06-20                                                       |
+| System ID: ALYATHAPA-369                                               |
+===========================================================================
+
+[2025-06-20 06:45:12] SYSTEM BOOT INITIATED
+[2025-06-20 06:45:14] BIOS Version: 1.12.0.47
+[2025-06-20 06:45:17] OS: Windows 10 Pro 21H2 (Build 19044.2965)
+[2025-06-20 06:45:45] Network Adapter Initialized: Intel(R) Ethernet Connection I219-LM
+[2025-06-20 06:46:10] USB Device Connected: VendorID_05AC ProductID_12A8 (Apple iPhone)
+[2025-06-20 06:46:15] USB Device Driver Loaded Successfully
+[2025-06-20 06:46:40] KEYSTROKE LOG: User typed "initializing research protocol"
+[2025-06-20 06:47:02] ERROR 0xC004F074: Activation server unreachable
+[2025-06-20 06:47:30] PROCESS STARTED: C:\Windows\System32\notepad.exe
+[2025-06-20 06:48:05] FILE ACCESS: C:\Users\Alya\Documents\notes.txt opened (Read/Write)
+[2025-06-20 06:49:12] USB Device Disconnected: VendorID_05AC ProductID_12A8 (Apple iPhone)
+[2025-06-20 06:50:00] NETWORK: DNS query for unknown domain
+[2025-06-20 06:50:01] DNS QUERY: abcdef1234.pastebin.com
+[2025-06-20 06:50:03] DNS RESPONSE: NXDOMAIN
+[2025-06-20 06:51:20] KEYSTROKE LOG: Password Typed for Pastebin "A@1p@P[{)!#Zza@&azZ?>"/Wq3Rr"
+[2025-06-20 06:52:00] ERROR 0x80070005: Access Denied attempting to read registry key HKCU\Software\SecretConfig
+[2025-06-20 06:53:45] PROCESS ERROR: C:\Program Files\Updater\update.exe failed with code 0x0000007B
+[2025-06-20 06:54:18] KEYSTROKE LOG: User typed "base64_enc0ded_fragment"
+[2025-06-20 06:54:45] NETWORK TRAFFIC: Outbound connection to 192.168.1.102:443
+[2025-06-20 06:55:12] CMD COMMAND: netstat -an | find "ESTABLISHED"
+[2025-06-20 06:55:40] USB Device Connected: VendorID_0BDA ProductID_0321 (Realtek USB 2.0 Card Reader)
+[2025-06-20 06:56:20] SYSTEM ALERT: Unexpected shutdown detected at 2025-06-19 23:59:59
+[2025-06-20 06:56:45] KEYSTROKE LOG: User typed "alyatrial@trial"
+[2025-06-20 06:57:30] ERROR 0x80070490: Windows Update failed (0x80070490)
+[2025-06-20 06:58:00] SERVICE STARTED: Windows Update
+[2025-06-20 06:58:30] PROCESS ERROR: C:\Program Files\Updater\update.exe failed with code 0x0000007B
+[2025-06-20 06:59:10] KEYSTROKE LOG: User typed "attempting to decode message"
+[2025-06-20 06:59:55] NETWORK TRAFFIC: Outbound connection to 104.244.42.1:80
+[2025-06-20 07:00:25] PROCESS STARTED: C:\Windows\System32\cmd.exe
+[2025-06-20 07:01:00] CMD COMMAND: ping -n 1 google.com
+[2025-06-20 07:01:30] USB Device Disconnected: VendorID_0BDA ProductID_0321
+[2025-06-20 07:02:05] KEYSTROKE LOG: User typed "running network diagnostics"
+[2025-06-20 07:02:45] ERROR 0x80070057: Parameter incorrect
+[2025-06-20 07:03:15] NETWORK TRAFFIC: Outbound connection to 172.217.9.206:443
+[2025-06-20 07:03:50] KEYSTROKE LOG: User typed "launching encrypted shell"
+[2025-06-20 07:04:25] ERROR 0x80004005: Unspecified error
+[2025-06-20 07:05:05] PROCESS STARTED: C:\Windows\System32\powershell.exe
+[2025-06-20 07:05:35] CMD COMMAND: Get-Process | Where-Object {$_.CPU -gt 10}
+[2025-06-20 07:06:10] USB Device Connected: VendorID_1234 ProductID_5678 (Unknown Device)
+[2025-06-20 07:06:40] KEYSTROKE LOG: User typed "checking system logs for anomalies"
+[2025-06-20 07:07:15] USB Device Disconnected: VendorID_1234 ProductID_5678
+[2025-06-20 07:07:45] ERROR 0x80070005: Access Denied attempting to open system config
+[2025-06-20 07:08:20] NETWORK SCAN STARTED: 192.168.1.0/24
+[2025-06-20 07:09:05] NETWORK SCAN COMPLETE: 15 hosts active
+[2025-06-20 07:09:40] KEYSTROKE LOG: User typed "ssh alya@192.168.1.55"
+[2025-06-20 07:10:10] ERROR 0x80004005: Unspecified error
+[2025-06-20 07:10:45] FILE ACCESS: C:\Users\Alya\Downloads\research_data.bin opened (Read)
+[2025-06-20 07:11:20] KEYSTROKE LOG: User typed "attempting data extraction"
+[2025-06-20 07:12:05] PROCESS STARTED: C:\Program Files\7-Zip\7z.exe
+[2025-06-20 07:12:45] CMD COMMAND: 7z x research_data.bin -oC:\Users\Alya\Desktop\Extracted\
+[2025-06-20 07:13:20] ERROR 0x80070057: Parameter incorrect
+[2025-06-20 07:14:00] NETWORK TRAFFIC: Outbound connection to 192.168.1.105:80
+[2025-06-20 07:14:40] KEYSTROKE LOG: User typed "decode_base64 --input extracted_file.txt"
+[2025-06-20 07:15:10] SYSTEM ALERT: Suspicious process detected - powershell.exe with unknown parameters
+[2025-06-20 07:15:55] PROCESS TERMINATED: powershell.exe PID 3420
+[2025-06-20 07:16:30] USB Device Connected: VendorID_05AC ProductID_12A8 (Apple iPhone)
+[2025-06-20 07:17:05] KEYSTROKE LOG: User typed "begin password brute force attempt"
+[2025-06-20 07:17:40] ERROR 0xC0000005: Access violation reading location 0x00000000
+[2025-06-20 07:18:20] NETWORK TRAFFIC: Outbound connection to 198.51.100.45:443
+[2025-06-20 07:19:00] KEYSTROKE LOG: Pastebin Url "flagmaybe_pastebincomraw7x9d3pL2"
+[2025-06-20 07:19:40] PROCESS STARTED: C:\Windows\System32\notepad.exe
+[2025-06-20 07:20:10] FILE ACCESS: C:\Users\Alya\Desktop\notes.txt saved
+[2025-06-20 07:20:45] USB Device Disconnected: VendorID_05AC ProductID_12A8
+[2025-06-20 07:21:15] ERROR 0x80070005: Access Denied attempting to modify registry key HKLM\Software\Policies
+[2025-06-20 07:21:50] CMD COMMAND: netstat -an | find "LISTENING"
+[2025-06-20 07:22:25] SYSTEM SCAN: No threats detected
+[2025-06-20 07:23:00] KEYSTROKE LOG: User typed "final check complete"
+[2025-06-20 07:23:45] NETWORK TRAFFIC: Outbound connection to 203.0.113.10:80
+[2025-06-20 07:24:20] SYSTEM SHUTDOWN INITIATED
+
+===========================================================================
+
+END OF LOG

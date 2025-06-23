@@ -1,0 +1,18 @@
+# robots.txt for alyatrial.github.io
+
+User-agent: *
+Disallow: /admin/
+Disallow: /config/
+Disallow: /secret/
+Disallow: /hidden/
+Disallow: /research-logs.txt/
+
+# Spoiler: Robots don’t always get it right.
+
+User-agent: Googlebot
+Disallow: /no-google/
+
+# Keep looking. Or don’t. Up to you.
+# But if you want the real clues, you know where to go.
+
+# PS: Research! Its not easy.
