@@ -18,7 +18,7 @@
 [2025-06-20 06:50:00] NETWORK: DNS query for unknown domain
 [2025-06-20 06:50:01] DNS QUERY: abcdef1234.pastebin.com
 [2025-06-20 06:50:03] DNS RESPONSE: NXDOMAIN
-[2025-06-20 06:51:20] KEYSTROKE LOG: Password Typed for Pastebin "A@1p@P[{)!#Zza@&azZ?>"/Wq3Rr"
+[2025-06-20 06:51:20] KEYSTROKE LOG: HTTPS ~ Pastebin Password "TkAxY0BDW3spISNNbW5AJm5tTT8+Ii9KZDNFZQ=="
 [2025-06-20 06:52:00] ERROR 0x80070005: Access Denied attempting to read registry key HKCU\Software\SecretConfig
 [2025-06-20 06:53:45] PROCESS ERROR: C:\Program Files\Updater\update.exe failed with code 0x0000007B
 [2025-06-20 06:54:18] KEYSTROKE LOG: User typed "base64_enc0ded_fragment"
